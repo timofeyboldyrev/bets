@@ -1,0 +1,194 @@
+
+                                                      <tbody class="" data-expanded-event-treeId="5262578" data-event-treeId="5262578" data-event-name="Бранн - Хогесунн" data-live="true">
+                                                         <tr  data-mutable-id="MR1mainRow"  class=" event-header" >
+                                                            <td class="first member-area  member-area-live   " rowspan="1"  data-mutable-id="MRMAmainRow" data-member-area="member-area">
+                                                               <table class="member-area-content-table  "
+                                                                  data-broadcasts-info='[{"type":"LiveAnimation","permittedRegions":["all-regions"],"onlyLogged":false}]'>
+                                                                  <tr>
+                                                                     <td class="short-cell left expand-cell">
+                                                                        <div data-expand-event-btn="5262578" class="expand-event-btn">
+                                                                           <img src="/cdn/3-0-501-600-PAN-41804-6/images/loading.gif" class="load" alt=""/>
+                                                                           <div class="icon-collapse">
+                                                                           </div>
+                                                                        </div>
+                                                                     </td>
+                                                                     <td class="short-cell border-right">
+                                                                        <div data-favorites-selector="5262578"
+                                                                           data-favorites-state="UNCHECKED"
+                                                                           data-tooltip-favorites-selector='{}'
+                                                                           class="small my-fav-selector unchecked"
+                                                                           unselectable="on">
+                                                                           <img src="/cdn/3-0-501-600-PAN-41804-6/images/loading.gif" class="load" alt=""/>
+                                                                           <div unselectable="on">
+                                                                           </div>
+                                                                        </div>
+                                                                     </td>
+                                                                     <td class="live-today-name">
+                                                                        <div data-members="true" data-has-additional-markets="true" class="command">
+                                                                           <b class="member-number">1.</b>
+                                                                           <div class="live-today-member-name nowrap " data-ellipsis='{}'>
+                                                                              <span>Бранн</span>
+                                                                           </div>
+                                                                        </div>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td colspan="2" class="stream-blurb-cell border-right">
+                                                                     </td>
+                                                                     <td class="live-today-name">
+                                                                        <div data-members="true" data-has-additional-markets="true" class="command">
+                                                                           <b class="member-number">2.</b>
+                                                                           <div class="live-today-member-name nowrap " data-ellipsis='{}'>
+                                                                              <span>Хогесунн</span>
+                                                                           </div>
+                                                                        </div>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr class="result-row">
+                                                                     <td class="event-description" colspan="3">
+                                                                        <div  class="cl-left red">
+                                                                           0:0   
+                                                                           <span class="time-description">
+                                                                              <div class="green bold nobr">
+                                                                                 25:30
+                                                                              </div>
+                                                                           </span>
+                                                                        </div>
+                                                                     </td>
+                                                                  </tr>
+                                                               </table>
+                                                            </td>
+                                                            <td class="main-row-buttons " rowspan="1" data-mutable-id="BmainRow">
+                                                               <table>
+                                                                  <tr>
+                                                                     <td data-event-statistics="true"
+                                                                        class="member-area-button">
+                                                                        <div class="member-area-buttons-label">
+                                                                           <div class="statistics-button-ico"></div>
+                                                                           <img src="/cdn/3-0-501-600-PAN-41804-6/images/loading.gif" class="loading-ico" alt=""/>
+                                                                        </div>
+                                                                     </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                     <td class="member-area-button" id="event-more-view-5262578"
+                                                                        data-event-more-view="event-more-view"
+                                                                        treeid="5262578" isLive="true" isSeparatedButton="false">
+                                                                        <div class="member-area-buttons-label">
+                                                                           <span class="event-more-view">+134</span>
+                                                                           <img src="/cdn/3-0-501-600-PAN-41804-6/images/loading.gif" class="loading-ico" alt=""/>
+                                                                        </div>
+                                                                     </td>
+                                                                  </tr>
+                                                               </table>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    first-in-main-row  " data-coeff-uuid="-1649127808-12695148402" data-sel='{"sn":"Бранн (победа)","mn":"Результат матча","ewc":"1/1 1","cid":12695148402,"prt":"CP","ewf":"1.0","epr":"2.74","prices":{"0":"87/50","1":"2.74","2":"+174","3":"1.74","4":"-0.575","5":"1.74"}}'
+                                                               data-mutable-id="S1mainRow"  data-market-type="RESULT"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="2.74"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Match_Result.1"
+                                                                  >2.74</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="-692508895-12695148176" data-sel='{"sn":"Ничья","mn":"Результат матча","ewc":"1/1 1","cid":12695148176,"prt":"CP","ewf":"1.0","epr":"3.04","prices":{"0":"51/25","1":"3.04","2":"+204","3":"2.04","4":"-0.49","5":"2.04"}}'
+                                                               data-mutable-id="S2mainRow"  data-market-type="RESULT"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="3.04"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Match_Result.draw"
+                                                                  >3.04</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="-1649127806-12695148517" data-sel='{"sn":"Хогесунн (победа)","mn":"Результат матча","ewc":"1/1 1","cid":12695148517,"prt":"CP","ewf":"1.0","epr":"2.6799999999999997","prices":{"0":"42/25","1":"2.68","2":"+168","3":"1.68","4":"-0.596","5":"1.68"}}'
+                                                               data-mutable-id="S3mainRow"  data-market-type="RESULT"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="2.68"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Match_Result.3"
+                                                                  >2.68</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="357866163-12695148499" data-sel='{"sn":"Бранн (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":12695148499,"prt":"CP","ewf":"1.0","epr":"1.45","prices":{"0":"9/20","1":"1.45","2":"-222","3":"0.45","4":"0.45","5":"-2.22"}}'
+                                                               data-mutable-id="S4mainRow"  data-market-type="DOUBLE_CHANCE"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.45"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Result.HD"
+                                                                  >1.45</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="357866160-12695148107" data-sel='{"sn":"Бранн (победа) или Хогесунн (победа)","mn":"Результат","ewc":"1/1 1","cid":12695148107,"prt":"CP","ewf":"1.0","epr":"1.3636363636363638","prices":{"0":"4/11","1":"1.363","2":"-275","3":"0.363","4":"0.363","5":"-2.75"}}'
+                                                               data-mutable-id="S5mainRow"  data-market-type="DOUBLE_CHANCE"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.36364"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Result.HA"
+                                                                  >1.363</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRow.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="357865946-12695148415" data-sel='{"sn":"Хогесунн (победа) или ничья","mn":"Результат","ewc":"1/1 1","cid":12695148415,"prt":"CP","ewf":"1.0","epr":"1.44","prices":{"0":"11/25","1":"1.44","2":"-228","3":"0.44","4":"0.44","5":"-2.28"}}'
+                                                               data-mutable-id="S6mainRow"  data-market-type="DOUBLE_CHANCE"  >
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.44"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Result.AD"
+                                                                  >1.44</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRowHandicap.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="101985865-12695148381" data-sel='{"sn":"Бранн (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":12695148381,"prt":"CP","ewf":"1.0","epr":"1.94","prices":{"0":"47/50","1":"1.94","2":"-107","3":"0.94","4":"0.94","5":"-1.07"}}'
+                                                               data-mutable-id="S7mainRow"  data-market-type="HANDICAP"  >
+                                                               (0)<br/>
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.94"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Draw_No_Bet.HB_H"
+                                                                  >1.94</span>
+                                                            </td>
+                                                            <td data-tmpl="/components/selectionMainRowHandicap.vm" colspan="1"   class="price height-column-with-price    " data-coeff-uuid="101985858-12695148379" data-sel='{"sn":"Хогесунн (0)","mn":"Победа с учетом форы","ewc":"1/1 1","cid":12695148379,"prt":"CP","ewf":"1.0","epr":"1.9","prices":{"0":"9/10","1":"1.90","2":"-111","3":"0.90","4":"0.90","5":"-1.11"}}'
+                                                               data-mutable-id="S8mainRow"  data-market-type="HANDICAP"  >
+                                                               (0)<br/>
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.9"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Draw_No_Bet.HB_A"
+                                                                  >1.90</span>
+                                                            </td>
+                                                            <td colspan="1"   class="price height-column-with-price    " data-coeff-uuid="-712596496-12695148498" data-sel='{"sn":"Меньше 2","mn":"Тотал голов","ewc":"1/1 1","cid":12695148498,"prt":"CP","ewf":"1.0","epr":"1.75","prices":{"0":"3/4","1":"1.75","2":"-134","3":"0.75","4":"0.75","5":"-1.34"}}'
+                                                               data-mutable-id="S9mainRow"  data-market-type="TOTAL"  >
+                                                               (2.0)<br/>
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="1.75"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Total_Goals2.Under_2"
+                                                                  >1.75</span>
+                                                            </td>
+                                                            <td colspan="1"   class="price height-column-with-price    " data-coeff-uuid="1781684494-12695148522" data-sel='{"sn":"Больше 2","mn":"Тотал голов","ewc":"1/1 1","cid":12695148522,"prt":"CP","ewf":"1.0","epr":"2.1","prices":{"0":"11/10","1":"2.10","2":"+110","3":"1.10","4":"-0.909","5":"1.10"}}'
+                                                               data-mutable-id="S10mainRow"  data-market-type="TOTAL"  >
+                                                               (2.0)<br/>
+                                                               <span class="selection-link
+                                                                  normal 
+                                                                  "
+                                                                  data-selection-price="2.1"
+                                                                  data-prt='CP'
+                                                                  data-selection-key="4688505@Total_Goals2.Over_2"
+                                                                  >2.10</span>
+                                                            </td>
+                                                         </tr>
+                                                         <tr  data-mutable-id="MR3mainRow"  class=" hidden  event-header" >
+                                                         </tr>
+                                                         <tr class="sportStats coupon-statistics" data-coupon-statistics-tr="true" data-loaded='false'>
+                                                            <td  colspan="12"  data-event-statistics-container="true"></td>
+                                                         </tr>
+                                                      </tbody>
