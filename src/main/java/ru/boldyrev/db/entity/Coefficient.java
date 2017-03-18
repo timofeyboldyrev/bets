@@ -6,7 +6,7 @@ import javax.persistence.*;
  * Created by t.boldyrev on 16.03.2017.
  */
 @Entity
-@Table(name = "TEST_FOUR", indexes = {
+@Table(name = "COEFFICIENT", indexes = {
         @Index(columnList = "GAME_TIME_ID, BET_TYPE_ID", name = "UN_KEY_COEFFICIENT_GAME_TIME_BET_TYPE", unique = true)
 })
 public class Coefficient {
