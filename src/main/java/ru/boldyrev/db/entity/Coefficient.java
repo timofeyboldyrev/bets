@@ -24,4 +24,45 @@ public class Coefficient {
     @Column(nullable = false)
     private Double coefficient;
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public Long getGameTimeId() {
+        return gameTimeId;
+    }
+
+    public void setGameTimeId(Long gameTimeId) {
+        this.gameTimeId = gameTimeId;
+    }
+
+    public Long getBetTypeId() {
+        return betTypeId;
+    }
+
+    public void setBetTypeId(Long betTypeId) {
+        this.betTypeId = betTypeId;
+    }
+
+    public Double getCoefficient() {
+        return coefficient;
+    }
+
+    public void setCoefficient(Double coefficient) {
+        this.coefficient = coefficient;
+    }
+
+    @Override
+    public String toString() {
+        return "Coefficient{" +
+                "id=" + id +
+                ", gameTimeId=" + gameTimeId +
+                ", betTypeId=" + betTypeId +
+                ", coefficient=" + coefficient +
+                '}';
+    }
 }

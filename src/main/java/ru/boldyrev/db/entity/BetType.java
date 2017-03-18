@@ -19,6 +19,10 @@ public class BetType {
     @Column(nullable = false)
     private BetTypeName name;
 
+    public Long getId() {
+        return id;
+    }
+
     @Override
     public String toString() {
         return "BetType{" +

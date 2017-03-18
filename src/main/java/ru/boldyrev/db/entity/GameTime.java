@@ -27,6 +27,46 @@ public class GameTime {
     @Column(nullable = false)
     private Integer score2;
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public Long getGameId() {
+        return gameId;
+    }
+
+    public void setGameId(Long gameId) {
+        this.gameId = gameId;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
+    }
+
+    public Integer getScore1() {
+        return score1;
+    }
+
+    public void setScore1(Integer score1) {
+        this.score1 = score1;
+    }
+
+    public Integer getScore2() {
+        return score2;
+    }
+
+    public void setScore2(Integer score2) {
+        this.score2 = score2;
+    }
+
     @Override
     public String toString() {
         return "GameTime{" +

@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
  * Created by t.boldyrev on 16.03.2017.
  */
 @Service
-public class TaskManager {
+class TaskManager {
 
     private static final Logger log = LoggerFactory.getLogger(TaskManager.class);
     @Autowired private PageManager pageManager;
@@ -32,7 +32,7 @@ public class TaskManager {
     public void runScheduler() {
         ScheduledExecutorService executorService = Executors.newScheduledThreadPool(1);
         Runnable action = () -> taskList.parallelStream().forEach(this::runTask);
-        executorService.scheduleAtFixedRate(action, 5, monitoringInterval, TimeUnit.SECONDS);
+        executorService.scheduleAtFixedRate(action, 1, monitoringInterval, TimeUnit.SECONDS);
     }
 
     private void runTask(Task task) {
