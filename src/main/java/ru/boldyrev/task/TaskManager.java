@@ -7,12 +7,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import ru.boldyrev.config.Context;
 import ru.boldyrev.db.DbManager;
-import ru.boldyrev.db.entity.BetType;
-import ru.boldyrev.db.entity.Game;
-import ru.boldyrev.db.entity.GameTime;
-import ru.boldyrev.db.repository.BetTypeRepository;
-import ru.boldyrev.db.repository.GameRepository;
-import ru.boldyrev.db.repository.GameTimeRepository;
 import ru.boldyrev.http.PageManager;
 import ru.boldyrev.parsing.ParseResult;
 

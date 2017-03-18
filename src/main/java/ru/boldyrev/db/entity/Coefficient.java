@@ -9,11 +9,10 @@ import javax.persistence.*;
 @Table(name = "TEST_FOUR", indexes = {
         @Index(columnList = "GAME_TIME_ID, BET_TYPE_ID", name = "UN_KEY_COEFFICIENT_GAME_TIME_BET_TYPE", unique = true)
 })
-@SequenceGenerator(name = "CoefficientIdGenerator", sequenceName = "COEFFICIENT_SEQ")
 public class Coefficient {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "CoefficientIdGenerator")
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
     @Column(name = "GAME_TIME_ID", nullable = false)

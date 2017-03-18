@@ -10,11 +10,10 @@ import java.time.LocalDate;
 @Table(name = "TEST_TWO", indexes = {
         @Index(columnList = "GAME_DATE,TEAM1,TEAM2", name = "UN_KEY_GAME_TEAMS_DATE", unique = true),
 })
-@SequenceGenerator(name = "GameIdGenerator", sequenceName = "GAME_SEQ")
 public class Game {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "GameIdGenerator")
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
     @Column(name = "GAME_DATE", columnDefinition = "DATE default TRUNC(SYSDATE) not null", insertable = false)
