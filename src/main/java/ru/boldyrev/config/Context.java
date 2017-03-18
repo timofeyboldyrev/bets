@@ -11,7 +11,7 @@ import ru.boldyrev.task.Task;
 import java.net.URL;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Configuration
 public class Context {

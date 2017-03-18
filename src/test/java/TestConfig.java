@@ -3,7 +3,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Configuration
 @ComponentScan("ru.boldyrev")

@@ -17,7 +17,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Service
 class TaskManager {

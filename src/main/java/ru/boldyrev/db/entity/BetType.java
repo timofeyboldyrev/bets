@@ -3,7 +3,7 @@ package ru.boldyrev.db.entity;
 import javax.persistence.*;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Entity
 @Table(name = "BET_TYPE", indexes = {

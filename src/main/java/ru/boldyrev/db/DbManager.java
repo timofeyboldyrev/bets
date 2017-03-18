@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Service
 public class DbManager {

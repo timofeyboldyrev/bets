@@ -5,7 +5,7 @@ import ru.boldyrev.parsing.Parser;
 import java.net.URL;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 public class Task {
 

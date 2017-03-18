@@ -5,7 +5,7 @@ import ru.boldyrev.db.entity.BetType;
 import ru.boldyrev.db.entity.BetTypeName;
 
 /**
- * Created by t.boldyrev on 17.03.2017.
+ * Created by Timofey Boldyrev on 17.03.2017.
  */
 public interface BetTypeRepository extends CrudRepository<BetType,Long> {
 

@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.time.LocalDate;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 @Entity
 @Table(name = "GAME", indexes = {

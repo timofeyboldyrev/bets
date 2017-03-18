@@ -1,7 +1,7 @@
 package ru.boldyrev.db.entity;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 public enum BetTypeName {
 

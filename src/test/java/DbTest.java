@@ -6,7 +6,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import ru.boldyrev.db.DbManager;
 
 /**
- * Created by Timofey on 18.03.2017.
+ * Created by Timofey Boldyrev on 18.03.2017.
  */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = TestConfig.class)

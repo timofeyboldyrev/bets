@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 
 /**
- * Created by t.boldyrev on 15.03.2017.
+ * Created by Timofey Boldyrev on 15.03.2017.
  */
 @Service
 public class PageManager {

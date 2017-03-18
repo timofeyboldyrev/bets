@@ -6,7 +6,7 @@ import java.util.EnumMap;
 import java.util.Random;
 
 /**
- * Created by t.boldyrev on 16.03.2017.
+ * Created by Timofey Boldyrev on 16.03.2017.
  */
 public class ParseResult {
 
