@@ -1,11 +1,13 @@
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Import;
-import ru.boldyrev.config.Context;
+import org.springframework.context.annotation.PropertySource;
 
 /**
  * Created by t.boldyrev on 16.03.2017.
  */
 @Configuration
-@Import(Context.class)
+@ComponentScan("ru.boldyrev")
+@PropertySource("application.properties")
 public class TestConfig {
+
 }
